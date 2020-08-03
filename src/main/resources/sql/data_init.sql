@@ -1,0 +1,1 @@
+insert into balance (username, balance) values ('jerry', 100000), ('andy', 200000), ('jacky', 300000);
